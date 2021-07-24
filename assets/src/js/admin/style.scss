@@ -1,0 +1,26 @@
+/* stylelint-disable */
+.rt-dev-site-alert-container {
+	.components-notice {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.settings_container {
+		padding: 20px 0;
+
+		.group {
+			.dev-site-url-input {
+				label {
+					display: block;
+					font-weight: 800;
+				}
+
+				input {
+					width: 40%;
+					height: 42px;
+					border: 1px solid #ddd;
+				}
+			}
+		}
+	}
+}
